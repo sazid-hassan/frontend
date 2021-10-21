@@ -1,0 +1,29 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+span.span_name {
+	color: rgb(23, 0, 77);
+	letter-spacing: 1.5px;
+	font-size: 18px;
+	padding: 10px;
+}
+
+h1,
+h2 {
+	text-align: center;
+}
+
+h3,
+h4 {
+	margin: 10px;
+	padding-left: 40px;
+	font-weight: bold;
+}
+
+li {
+	padding-left: 60px;
+	list-style-type: circle;
+	color: rgb(13, 3, 44);
+}

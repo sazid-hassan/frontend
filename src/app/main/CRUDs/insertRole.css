@@ -1,0 +1,31 @@
+h1,
+h2,
+h3 {
+	text-align: center;
+}
+
+form {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+input[type='text'] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	background-color: rgb(207, 221, 231);
+}
+select {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	background-color: rgb(207, 221, 231);
+}
